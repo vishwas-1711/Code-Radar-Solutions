@@ -14,7 +14,7 @@ int main() {
     }
     // Check if it's a consonant
     else if ((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z')) {
-        printf("Consonat", ch);
+        printf("Consonant", ch);
     }
     // Check if it's a digit
     else if (ch >= '0' && ch <= '9') {
