@@ -4,7 +4,7 @@ int main() {
     char ch;
 
     // Input a character
-    printf("Enter a character: ");
+    
     scanf("%c", &ch);
 
     // Check if it's a vowel
